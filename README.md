@@ -2,8 +2,6 @@
 
 ## Description
 A E-commerce Front-end freelance project built with React.js. It allows the client to display his previous and current works and allows visitors to purchase the client's works. The project implemented using React.js
-# Frontend E-commerce Project
-
 
 ## Features
 - Display information about client
