@@ -1,10 +1,10 @@
 # Sculptivated_Carnivore
 
 ## Description
-A E-commerce Front-end freelance project built with React.js. It allows the client to display his previous and current works and allows visitors to purchase the client's works. The project implemented using React.js
+A E-commerce Front-end freelance project built with React.js. It allows the client to display his previous and current works and allows visitors to purchase the client's works. The project was implemented using React.js
 
 ## Features
-- Display information about client
+- Display information about the client
 - Browse and view available products
 
 
