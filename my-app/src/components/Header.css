@@ -1,0 +1,28 @@
+#header_container{
+    width: 100vw;
+    height: 13vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ #logo, #navburger{
+width: 50%;
+margin:1rem;
+}
+button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+#logo img{
+    width: 1rem;
+}
+@media(max-width:425px){
+    #navburger{
+        width: 110%;
+        height: 100vh;
+        position: relative;
+        left: -6.9rem;
+        top: 12rem;
+    }
+}
